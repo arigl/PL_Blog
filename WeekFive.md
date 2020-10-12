@@ -30,7 +30,10 @@ Documentation and Libraries:
 
 - Hoogle (allows you to search up the meaning of functions and how to reference them)
   - https://hoogle.haskell.org/
+- Hackage (documentations for specific types and functions)
+  - https://hackage.haskell.org/package/base-4.12.0.0/docs/Data-Int.html
   
 Helpful Haskell Information:
+
 - Haskell cheat sheet (contains important syntax and functions to learn and master!)
   - https://jutge.org/doc/haskell-cheat-sheet.pdf
