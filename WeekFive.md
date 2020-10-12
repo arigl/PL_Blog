@@ -1,5 +1,6 @@
 Haskell Link Megathread:
 
+
 Everying you need to start learning and installing Haskell!
 
 Want to just try out Haskell?
