@@ -18,12 +18,13 @@ Installation:
 Haskell Tutorial:
 - Starting out in Haskell: 5 Steps
   - Start working in Haskell with begining in your termininal, and utilizing a calculator in Haskell!
-  - https://wiki.haskell.org/Haskell_in_5_steps
+  - Text Guide: https://wiki.haskell.org/Haskell_in_5_steps
 - Types and Functions
   - Describes the fundamentals on how to approach types and functions in Haskell, helps you undestood how to tackle assignments
-  - https://www.youtube.com/watch?v=pitjnqRKyyI
+  - Video: https://www.youtube.com/watch?v=pitjnqRKyyI
 - Recursion
   - Recursion is very important in this class, and allows you to tackle the first assignment's difficult way of viewing functions.
+  - Video: https://www.youtube.com/watch?v=y6xiaSkVlvs
 
 Documentation and Libraries:
 
