@@ -7,7 +7,9 @@ In order to convert a float to an integer its pretty simple in most programming 
 Simply cast a float as an Int and you are pretty good to go.
 
 float y = 1.4
+
 int x = (Int) y
+
 Output -> 1
 
 However in Haskell, You need to think more strategically.
