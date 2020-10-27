@@ -1,6 +1,9 @@
-Syntax of Lambda Calculus:
+<h1>Syntax of Lambda Calculus:</h1>
 
-Overview:
+
+<h2> Overview </h2>:
+
+```
 Lambda Calculus has three constructs
 - Abstraction
   - Basis: λx.e
@@ -14,3 +17,4 @@ Lambda Calculus has three constructs
   - If e1 and e2 are programs, then the basis is teh program which applies e1 to e2
 - Variables
   - The basic programs are just variables 
+```
