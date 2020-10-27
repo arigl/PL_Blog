@@ -1,5 +1,5 @@
 <h1>Syntax of Lambda Calculus:</h1>
-
+This post is mainly suited to understanding Lambda Calculus, as well as exploring examples that may be useful on the exam. 
 
 <h2> Overview </h2>
 
@@ -48,3 +48,6 @@ Syntax Explained:
   - \\ is used to denote \ in BNF 
   - Exp :: = Exp Exp1 is used in the same way as Exp :: = Exp + Exp1 
 ```
+
+<h2> Example Problems </h2>
+
