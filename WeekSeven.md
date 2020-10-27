@@ -34,3 +34,28 @@ Why is this important?
 Substiution allows us to make placeholders within lambda calculus, and minimize long functions into regonizable pieces.
 It is the basis of applying complicated functions to lambda calculus, and allows us to deduce functions to its foundation. 
 ```
+
+<h2> Function with Two Arguments </h2>
+
+A function that adds two numbers can be written as 
+```
+λx.λy.x + y
+```
+and when we add the previous example, it appears as 
+```
+(λx.λy.x+y)2 3
+```
+Then when we consider the rules for parentheses, which will help us with substiution..
+```
+((λx.λy.x+y))2) 3
+```
+<h3> Inner Substiution </h3>
+We can apply inner substiution by applying the substution twice.  
+```
+((λx.λy.x+y)2 -> (λy.2 + y)
+```
+After applying inner substituion (everything in the first parenthesis), we can apply the second variable 
+```
+((λx.λy.x+y))2) 3 -> (λy.2 + y)3
+                  -> 2 + 3
+```
