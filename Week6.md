@@ -1,7 +1,7 @@
 <h1>Syntax of Lambda Calculus:</h1>
 
 
-<h2> Overview </h2>:
+<h2> Overview </h2>
 
 ```
 Lambda Calculus has three constructs
@@ -18,3 +18,31 @@ Lambda Calculus has three constructs
 - Variables
   - The basic programs are just variables 
 ```
+
+<h2> Abstract Syntax </h2>
+
+```
+- Basis: ::=λx.e∣ee∣x
+  - Where x ranges over an infinite set, the elements of which are called variables
+  - If this were written in C it would look like: int plus_one(int x) {return x + 1}
+- λx.e and λy.e' mean the same thing
+  - Same as: int plus_one(int x) {return x+1} and int plus_one(int y) {return y+1}
+- Explanation: 
+  - This is because x is abstracted from the basis, and does not depend on x. Therefore, if e' arises with y replacing x, it does not change the function 
+```
+
+<h2> Concrete Syntax </h2>
+
+Basis: similar to Abstract, but written differently for BNFC 
+``` 
+EAbs.   Exp ::= "\\" Ident "." Exp ;  
+EApp.   Exp ::= Exp Exp1 ; 
+EVar.   Exp1 ::= Ident ;
+
+coercions Exp 1 ;
+```
+
+Syntax Explained:
+  - λ = \
+  - \\ is used to denote \ in BNF 
+  - Exp :: = Exp Exp1 is used in the same way as Exp :: = Exp + Exp1 
