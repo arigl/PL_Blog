@@ -1,4 +1,4 @@
-Understanding Natural Numbers in Haskell:
+<h1>Understanding Natural Numbers in Haskell:</h1>
 
 The foundational units of numbers within programming languages are typically: Int, Double, and Floats 
 However, in a deeper language such as Haskell, most integer types consist of either Natural Numbers and Positive Numbers 
