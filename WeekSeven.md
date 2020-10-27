@@ -49,7 +49,9 @@ Then when we consider the rules for parentheses, which will help us with substiu
 ```
 ((λx.λy.x+y))2) 3
 ```
+
 <h3> Inner Substiution </h3>
+
 We can apply inner substiution by applying the substution twice.  
 ```
 ((λx.λy.x+y)2 -> (λy.2 + y)
