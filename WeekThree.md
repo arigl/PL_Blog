@@ -4,10 +4,10 @@ The foundational units of numbers within programming languages are typically: In
 However, in a deeper language such as Haskell, most integer types consist of either Natural Numbers and Positive Numbers 
 
 In our example, the natural numbers data type is formatted as follows:
-
+```
 data NN = O | S NN
     deriving (Eq,Show)
-    
+```    
 Now we can begin to break each part down:
 - data NN declares this block of code as a data type, with O as a base case and S NN to augment that
 - This data type is derived from (Eq,Show) which form the basis using prestablished Haskell libraries, which we don't need to focus on for now.
@@ -36,6 +36,7 @@ We first need to establish a base case, where if 0 is added to another natural n
 Now that we have our base case, we need to determine what happens when a natural number that is not O (or 0), is entered as an input.
 We need to implement recursion, so that the function is constantly called until each number is added one at a time, for instance if the inputs are 2 and 5, it will be called 7 times.
 
+```
 To do this, lets set up the general format:
 - The first step is to call the function on both sides.
     - add () = (add)
@@ -43,11 +44,14 @@ To do this, lets set up the general format:
     - add (S n) = S(add n)
 - Now we want to actually add with the other variable, we utilize m, on both sides of the equation
     - add (S n) m = S (add n m)
-
+```
 Now we have a perfectly working additional function with natural numbers as follows.
+
+```
 -- addition
 add :: NN -> NN -> NN
 add O n = n
 add (S n) m = S (add n m)
+```
 
 This was a very basic and simple guide going over natural numbers, use this as a basis to work on other functions such as multiplicationa dn subtraction, which use very similar methods to reach the final product. 
