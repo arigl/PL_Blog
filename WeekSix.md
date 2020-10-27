@@ -1,6 +1,10 @@
 <h1>Syntax of Lambda Calculus:</h1>
 This post is mainly suited to understanding Lambda Calculus, as well as exploring examples that may be useful on the exam. 
 
+
+Primary Resource:
+https://hackmd.io/@alexhkurz/S1D0yP8Bw
+
 <h2> Overview </h2>
 
 ```
