@@ -16,6 +16,7 @@ Everying you need to start learning and installing Haskell!
   - https://chocolatey.org/install
  
 <h3>Haskell Tutorial:</h3>
+
 - Starting out in Haskell: 5 Steps
   - Start working in Haskell with begining in your termininal, and utilizing a calculator in Haskell!
   - Text Guide: https://wiki.haskell.org/Haskell_in_5_steps
