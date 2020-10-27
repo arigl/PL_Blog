@@ -43,6 +43,8 @@ coercions Exp 1 ;
 ```
 
 Syntax Explained:
+```
   - λ = \
   - \\ is used to denote \ in BNF 
   - Exp :: = Exp Exp1 is used in the same way as Exp :: = Exp + Exp1 
+```
