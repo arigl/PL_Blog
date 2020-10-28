@@ -24,3 +24,6 @@ A is the set of integers > 1and m→n is defined to hold if m>n and n divides m.
 - all numbers are equivalent
 - not confluent
 - terminating
+
+<h2> ARS: Confluence and Normal Forms </h2>
+
