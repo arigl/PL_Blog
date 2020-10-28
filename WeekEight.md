@@ -15,7 +15,7 @@ Definition: An abstract reduction system (ARS) is a set A together with a relati
 - elements of A can be any types of elements: numbers, strings, lists, trees, etc. 
 - a∈A is a normal form if there is no (a,b)∈→, or, if there is no a→b. 
 
-<h3> Examples </h3>
+<h4> Examples </h4>
 A is the set of integers > 1and m→n is defined to hold if m>n and n divides m.
 
 - normal forms are primes
