@@ -1,3 +1,4 @@
 <h1> Abstract Reduction Systems: Termination 2/2 </h1> 
 
-Body.
+Example of a non-terminating function:
+u + v → v + u
