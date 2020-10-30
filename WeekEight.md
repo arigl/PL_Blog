@@ -26,4 +26,8 @@ A is the set of integers > 1and m→n is defined to hold if m>n and n divides m.
 - terminating
 
 <h2> ARS: Confluence and Normal Forms </h2>
+The main reason ARS is important is to understand the relationship between meaning and computation.
+Both understanding how something works then finding a fast efficient solution will always be important in computer programming. 
 
+
+Understanding Big O run time speed is an important thing to know for this, so if you need to brush up on the different speeds and how to calculate them, here is a easy to understand video: https://www.youtube.com/watch?v=v4cd1O4zkGw
