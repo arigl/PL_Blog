@@ -22,3 +22,30 @@ bababa -> bbabaa
        -> babb
        -> a
 ```
+
+<h4> SR 2) Consider the schemes of rules 
+ 
+```
+ba -> bbaa
+aa -> 
+ba -> ab
+ab -> ba 
+```
+
+Can you reduce ab to aabb?
+
+```
+ab -> ba
+   -> bbaa
+   -> bbbaaa
+   -> bbabaa
+   -> babbaa
+   -> abbbaa
+   -> abbaba
+   -> ababba
+   -> aabbba
+   -> need to finish 
+```
+
+<h2> Termination </h2>
+
