@@ -11,3 +11,14 @@
  aa ->
  b ->
 ```
+Reduce the strings abba and bababa
+```
+abba -> baab
+     -> bb
+     ->  
+
+bababa -> bbabaa
+       -> bbab
+       -> babb
+       -> a
+```
