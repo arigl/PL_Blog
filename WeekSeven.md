@@ -61,3 +61,6 @@ After applying inner substituion (everything in the first parenthesis), we can a
 ((λx.λy.x+y))2) 3 -> (λy.2 + y)3
                   -> 2 + 3
 ```
+
+<h2> B-Reduction Rule </h2>
+This is very important for the midterm exam!
