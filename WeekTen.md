@@ -22,7 +22,10 @@ bababa -> bbabaa
        -> babb
        -> a
 ```
-
+Why is the ARS not terminating?
+```
+The ARS is not terminating because ab -> ba and ba -> ab is an ambiguous algorithm and does not terminate.
+```
 <h4> SR 2) Consider the schemes of rules </h4>
  
 ```
