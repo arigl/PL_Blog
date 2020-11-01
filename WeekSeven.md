@@ -64,3 +64,8 @@ After applying inner substituion (everything in the first parenthesis), we can a
 
 <h2> B-Reduction Rule </h2>
 This is very important for the midterm exam!
+
+Describe B Rule
+
+Describe Alpha Rule
+- When (<x.<y.x+y)y 3
