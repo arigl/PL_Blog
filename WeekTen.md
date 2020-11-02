@@ -63,7 +63,22 @@ Words only containing A's in an odd amount can end with A
 Can you list some properties of words that remain invairant under application of rules?
 
 ```
-asdasd
+You can't remove Bs.
 ```
+
+
 <h2> Termination </h2>
 
+<h4> T1) Consider the schemes of rules </h4>
+```
+while ub > lb + 1 do
+begin r : = (ub + lb) div 2;
+if <TEST> then ub := r else lb := r
+end 
+```
+
+Show that whatever the test <TEST> the program below terminates. Are there any assumptions you need do make the argument work?
+
+```
+Testing
+```
