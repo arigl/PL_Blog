@@ -53,5 +53,17 @@ ab -> ba
    -> aabb 
 ```
 
+Can you find a nice way of stating which words are in the equivalence class of ba?
+
+```
+Words only containing A's in an even amount can end in an empty word 
+Words only containing A's in an odd amount can end with A
+```
+
+Can you list some properties of words that remain invairant under application of rules?
+
+```
+asdasd
+```
 <h2> Termination </h2>
 
