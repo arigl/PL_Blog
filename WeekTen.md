@@ -70,6 +70,7 @@ You can't remove Bs.
 <h2> Termination </h2>
 
 <h4> T1) Consider the schemes of rules </h4>
+
 ```
 while ub > lb + 1 do
 begin r : = (ub + lb) div 2;
