@@ -26,6 +26,13 @@ Why is the ARS not terminating?
 ```
 The ARS is not terminating because ab -> ba and ba -> ab is an ambiguous algorithm and does not terminate.
 ```
+How many equivalence classes does it have?
+```
+There are two classes because there are two normal forms. A and empty word.
+{w| #a in w is odd}
+{w| #a in w is even}
+
+```
 <h4> SR 2) Consider the schemes of rules </h4>
  
 ```
@@ -40,14 +47,10 @@ Can you reduce ab to aabb?
 ```
 ab -> ba
    -> bbaa
-   -> bbbaaa
-   -> bbabaa
-   -> babbaa
-   -> abbbaa
-   -> abbaba
-   -> ababba
-   -> aabbba
-   -> need to finish 
+   -> baba
+   -> abba
+   -> abab
+   -> aabb 
 ```
 
 <h2> Termination </h2>
