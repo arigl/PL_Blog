@@ -1,4 +1,4 @@
-<h1> Abstract Reduction Systems (1/2) </h1>
+<h1> Abstract Reduction Systems (Basics) </h1>
 Main Source: https://hackmd.io/@alexhkurz/Hymy2npDS
 
 We will be going over the basics of what an ARS is, as well as learning about Confluence and Normal Forms 
