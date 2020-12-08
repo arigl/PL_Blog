@@ -2,23 +2,23 @@
 
 <h3> Index </h3>
 
-Week one:
+Week one: Installing Haskell
 
-Week two:
+Week two: Comparing Haskell
 
-Week three:
+Week three: Natural Numbers
 
-Week four:
+Week four: Important Links
 
-Week five:
+Week five: Importance of Haskell
 
-Week six:
+Week six: Lambda Syntax
 
-Week seven:
+Week seven: Lambda Semantics
 
-Week eight:
+Week eight: ARS Basics
 
-Week nine:
+Week nine: Midterm Review
 
-Week ten:
+Week ten: Looking back on the class
 
