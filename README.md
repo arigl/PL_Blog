@@ -1,4 +1,6 @@
-# Programming Languages Blog: By Alex Rigl
+# Programming Languages Blog: 
+By Alex Rigl
+
 <h3> Index: </h3>
 
 Week one: Installing Haskell
