@@ -16,6 +16,6 @@ People really didn't exagerate when they said this class was hard, but I really 
 - The overall amount of really weird errors that I got were very fustrating. Simple things such as installing Haskell were way harder than it should have been, and took a lot longer than anyone expected. There were moments were you hit a brick wall simply due to errors no one has experienced before. 
 
 
-<h3> Things I wish I approached Differently
+<h3> Things I wish I approached Differently </h3>
   
 - For the first exam, I felt like I studied in the completly wrong direction. I studied every single thing in my notes, whether it was on the posts made by our teacher or youtube tutorials online, but really all that was on the exam was the practice test. I don't think that was really a bad thing, I just wish I knew going into it how similar it was going to be. I feel like I could have done much better if I spent more time on the practice exam, but I did learn alot in the process so I suppose its a mixed bag. 
