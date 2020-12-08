@@ -1,6 +1,6 @@
 # ProgrammingLanguagesBlog
 
-<h3> Index </h3>
+<h3> Index: </h3>
 
 Week one: Installing Haskell
 
