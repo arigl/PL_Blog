@@ -1,4 +1,4 @@
-<h1>Haskell Link Megathread:</h1>
+<h1>Programming Languages Megathread:</h1>
 
 
 Everying you need to start learning and installing Haskell!
@@ -9,7 +9,8 @@ Everying you need to start learning and installing Haskell!
   - http://tryhaskell.org/
   
 <h3>Installation:</h3>
-
+- Preface:
+  - If you have a mac or linux machine, it is HIGHLY reccommended you use that over a Windows machine. Even if it is less powerful, it will make your experience far more enjoyable as most issues I encountered with Haskell was because I was on Windows. 
 - Haskell Installation 
   - https://www.haskell.org/platform/windows.html
 - Choclatey Installation (needed as a prereq for Haskell installation)
@@ -38,3 +39,36 @@ Everying you need to start learning and installing Haskell!
 
 - Haskell cheat sheet (contains important syntax and functions to learn and master!)
   - https://jutge.org/doc/haskell-cheat-sheet.pdf
+  
+<h2> Learning about String Rewriting </h2>
+
+Want to test your normal forms against specific rules? Use this java template. 
+```
+public class Main
+{
+     public static void main(String []args){
+        ARS("$V$V$");
+     }
+     
+     public static int ARS(String x){
+        if(x.contains("x")){
+            x = x.replace("x", "y");
+            System.out.println(x);
+            ARS(x);
+        }
+        else if(x.contains("x")){
+            x = x.replace("x", "u");
+            System.out.println(x);
+            ARS(x);
+        }
+        // ADD MORE RULES IF NEEDED 
+        else (x.contains("x")){
+            x = x.replace("x", "y");
+            System.out.println(x);
+            ARS(x);
+        }
+        //System.out.println("Count: " + x.length());
+        return 0;
+     }
+}
+```
