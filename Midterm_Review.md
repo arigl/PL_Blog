@@ -64,7 +64,7 @@ Can you list some properties of words that remain invairant under application of
 You can't remove Bs.
 ```
 
-<h3> Opinions of the exam </h3>
+<h2> Opinions of the exam </h2>
 
 Overall I felt like the exam was pretty fair, but I could have used more time. I definetly felt like I spent a lot of time studying for this exam, even compared to my peers who scored higher than me, but that could be due to my exam taking abilities, which is something I have always been bad it. Question 1 is a really nice way to ease into the exam, as simply having this question on this exam helps to reinforce the ideas of some of these definitions in your head. Overall Question 2 could have been a lot better for me, and if I were to give a reccomendation it would be to choose a problem that does not have more than 5 or 6 equivalence classes. Having 9 equivalence classes is just very difficult to process through on a timed test, especially in an online format where I would argue time matters even more due to the added factor of having to make a pdf with all of your pages and turning it in time. Number 3 was a good question overall, I would have gotten this right if I just spent maybe 15 or 20 minutes more studying this specific portion. Number 4 was also a fair question as well.
 
