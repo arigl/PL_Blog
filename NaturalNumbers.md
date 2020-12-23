@@ -1,7 +1,7 @@
 <h1>Understanding Natural Numbers in Haskell:</h1>
 
 The foundational units of numbers within programming languages are typically: Int, Double, and Floats 
-However, in a deeper language such as Haskell, most integer types consist of either Natural Numbers and Positive Numbers 
+However, in Haskell, types are brought down to a deeper level, for example, Natural or Positive Numbers.
 
 In our example, the natural numbers data type is formatted as follows:
 ```
@@ -14,6 +14,7 @@ Now we can begin to break each part down:
 - The first thing to understand is O.
   - O is classified as the starting point, or its initialization. This functions as a 0, signaling the beginning.
   - S NN is classified as an additional unit, therefore if S exists once, then it could be understood as 1.
+    - Where S is a function that takes one argument of type NN
   
 Now that we have broken down what each part means, we can go into why this is useful and how to utilize this information. 
 In order to build functions from this data type, we will use the fact that O is classified as 0, and that S attached to O is classified as 1, to make mathematical formulas.
@@ -24,7 +25,7 @@ This simply means, two natural numbers are taken in as inputs, and one NN will b
 In simple terms this is the same as 1 -> 1 -> 2, when plugged into a formula we will create.
 
 We first need to establish a base case, where if 0 is added to another natural number, it will simply equal the original natural number.
-- The first step is to call the function:
+- The first step is to name the function:
     - add
 - The second step is to establish the case, for this case we wanted to determine what happens when the number is O, or 0
     - add O 
@@ -45,7 +46,7 @@ To do this, lets set up the general format:
 - Now we want to actually add with the other variable, we utilize m, on both sides of the equation
     - add (S n) m = S (add n m)
 ```
-Now we have a perfectly working additional function with natural numbers as follows.
+Now we have a perfectly working addition function with natural numbers as follows.
 
 ```
 -- addition
