@@ -14,14 +14,17 @@ One of the things we capitalized on the course was rewriting systems. The core o
 
 For Example:
 
-'''
+```
+
 a -> bb
 c -> d
-'''
+
+```
 
 This can be programmed in Java such as:
 
-'''
+```
+
 public static int ARS(String x){
  if(x.contains("I$I")){
     x = x.replace("I$I", "a$b");
@@ -34,7 +37,8 @@ public static int ARS(String x){
     ARS(x);
  }
 }
-'''
+
+```
 
 This also you to see every step on how a computer would reduce a normal form, and its often the easiest and leaves the least amount of room for error. 
 
