@@ -13,12 +13,14 @@ By having a deeper understanding, it improves your overall programming efficienc
 One of the things we capitalized on the course was rewriting systems. The core of the functionality behind these systems is to reduce a larger string, into a smaller one following specific rules given by the function. Sometimes this can be quite daunting, the more rules you have the harder it can become harder to reduce to a normal form (in most cases this is reducing a larger string to a smaller, normal form). However, as I went through the course I thought through things more prgramatically rather than theoritically. I began to learn that the best way to solve problems is through making a program yourself, rather than trying to think through it in your head. 
 
 For Example:
+
 '''
 a -> bb
 c -> d
 '''
 
 This can be programmed in Java such as:
+
 '''
 public static int ARS(String x){
  if(x.contains("I$I")){
