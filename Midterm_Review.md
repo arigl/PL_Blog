@@ -1,7 +1,5 @@
 <h1> Midterm Review </h1> 
 
-<h2> Lambda Calculus </h2>
-
 <h2> String Rewriting </h2>
 <h4> SR 1) Consider the schemes of rules </h4>
 
