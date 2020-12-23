@@ -6,6 +6,8 @@ I was pretty scared going into this class orginally. A lot of people told me how
 
 People really didn't exagerate when they said this class was hard, but I really appreciated the ways in which this class was hard. None of the things that were asked of us were unreasonable, everything had a clear purpose that advances your fundamental understanding on how to approach computer programming. It develops a more inherent understanding of modern programming languages, where you understand how powerful they are. 
 
+However, I do feel the approach for the final exam should be reconsidered. Every class this semester had a take home exam, making it impossible to put in the amount of time needed to excel on every one of them. This exam was simply too long and difficult given the circumstances, and the overall length should be made shorter in order to make sure students are not completly overwhelmed. 
+
 <h3> Things I liked: </h3>
 
 - After spending a lot of time working on a tedious error or function, and finally seeing it compile is an awesome feeling. Certain things did not come easily to me, and finally understanding how things worked made things a lot easier. Taking the time to understand the material rather than just seeing what sticked really worked for me.
