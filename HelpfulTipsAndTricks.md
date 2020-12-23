@@ -9,8 +9,9 @@ Everying you need to start learning and installing Haskell!
   - http://tryhaskell.org/
   
 <h3>Installation:</h3>
-- Preface:
-  - If you have a mac or linux machine, it is HIGHLY reccommended you use that over a Windows machine. Even if it is less powerful, it will make your experience far more enjoyable as most issues I encountered with Haskell was because I was on Windows. 
+Preface:
+If you have a mac or linux machine, it is HIGHLY reccommended you use that over a Windows machine. Even if it is less powerful, it will make your experience far more enjoyable as most issues I encountered with Haskell was because I was on Windows. 
+  
 - Haskell Installation 
   - https://www.haskell.org/platform/windows.html
 - Choclatey Installation (needed as a prereq for Haskell installation)
