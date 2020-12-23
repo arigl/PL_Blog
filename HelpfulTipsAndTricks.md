@@ -40,6 +40,15 @@ If you have a mac or linux machine, it is HIGHLY reccommended you use that over 
 
 - Haskell cheat sheet (contains important syntax and functions to learn and master!)
   - https://jutge.org/doc/haskell-cheat-sheet.pdf
+
+<h2> Instructor Tutorials </h2>
+
+- Kurz Youtube Channel: https://www.youtube.com/channel/UC_UiVpuafsWOR4GUo0Shc5A/videos
+- Most important videos:
+  - Lambda Calculus Syntax: https://www.youtube.com/watch?v=D0kH1BpNr14&t=203s
+  - Lambda Calculus Semantics: https://www.youtube.com/watch?v=D0kH1BpNr14&t=203s
+  - Parsing Lambda Calculus Expressions (1/2): https://www.youtube.com/watch?v=D0kH1BpNr14&t=203s
+  - Parsing Lambda Calculus Expressions (2/2): https://www.youtube.com/watch?v=yls1NEUlzZA
   
 <h2> Learning about String Rewriting </h2>
 
